@@ -1,24 +1,7 @@
-# README
+# Une web-app et ses models ! 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Voici le Pitch
 
-Things you may want to cover:
+En cours de "Bizness Growth Money Maker", on t'avait demandé de créer une entreprise à fort potentiel. À l'époque tu t'étais dit que ce serait une chouette idée de faire une plateforme où des personnes pourraient promener les chiens des autres, en échange de cash-money.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+C'est dingue comme idée : ça va mettre tous les VC aux abois. Allez, on le fait !
